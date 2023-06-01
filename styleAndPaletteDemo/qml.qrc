@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>common/BaseButton.qml</file>
+        <file>common/BaseSlider.qml</file>
+        <file>common/HeadImage.qml</file>
+        <file>common/HintPopup.qml</file>
+        <file>common/ImageButton.qml</file>
+        <file>common/IndicatorPopup.qml</file>
+        <file>common/ScaleImageButton.qml</file>
+        <file>common/SelectFileDialog.qml</file>
+        <file>common/SkinModel.qml</file>
+        <file>common/YaheiText.qml</file>
+        <file>res/about.png</file>
+        <file>res/about1.png</file>
+        <file>res/bubble.png</file>
+        <file>res/bubble1.png</file>
+        <file>res/clean.png</file>
+        <file>res/close.png</file>
+        <file>res/close_hover.png</file>
+        <file>res/edit.png</file>
+        <file>res/emoji.png</file>
+        <file>res/max.png</file>
+        <file>res/minimize.png</file>
+        <file>res/normal.png</file>
+        <file>res/return.png</file>
+        <file>res/scale0.png</file>
+        <file>res/scale1.png</file>
+        <file>res/select.png</file>
+        <file>res/skin.png</file>
+        <file>res/skin1.png</file>
+        <file>Palette/Palette.qml</file>
+        <file>Palette/PalettePopup.qml</file>
+        <file>common/Triangle.qml</file>
+    </qresource>
+</RCC>
